@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 
 import sys
-import re
-
 index = {}
 	 
 for line in sys.stdin:
